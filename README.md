@@ -7,7 +7,8 @@ The Bookmarker App is a simple web-based dashboard that allows users to manage b
 - Add new bookmarks to the collection with a name and URL.
 - View a list of existing bookmarks with their details.
 - Delete bookmarks from the collection.
-
+## Demo 
+-- You can explore the App from <a href ="https://alhassan73.github.io/Bookmarker-CRUD-App/">Here</a>
 ## Installation
 
 1. Clone the repository:
